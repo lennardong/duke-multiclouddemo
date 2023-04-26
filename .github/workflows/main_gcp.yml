@@ -1,6 +1,6 @@
 # runs on 3.10 
 
-name: Python application test with Github Actions <> GCP
+name: Github Actions <> GCP
 
 on: [push]
 
