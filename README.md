@@ -1,3 +1,5 @@
+[![Python application test with Github Actions <> GCP](https://github.com/lennardong/duke-multiclouddemo/actions/workflows/main_gcp.yml/badge.svg?branch=main)](https://github.com/lennardong/duke-multiclouddemo/actions/workflows/main_gcp.yml)
+
 # Multi-Cloud Demo
 This is a repo for multi-cloud installation with CI via github actions 
 
