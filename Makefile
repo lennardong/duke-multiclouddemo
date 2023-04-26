@@ -2,6 +2,7 @@ conda_setup:
 	wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 	bash Miniconda3-latest-Linux-x86_64.sh -b
 	rm Miniconda3-latest-Linux-x86_64.sh
+	source /home/ec2-user/miniconda3/bin/activate
 	conda create --name duke python==3.10 -y
 	conda activate duke 
 
