@@ -26,4 +26,4 @@ test:
 	pytest -vv --cov=hello test_hello.py
 
 clean:
-    rm -rf __pycache__
+	rm -rf __pycache__
